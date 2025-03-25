@@ -42,4 +42,7 @@ function changeBg(color) {
     }
     header.style.backgroundColor = ""; // Reset to default
   }
+  
 }
+
+
